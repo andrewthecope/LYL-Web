@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.12.4"
   },
-  "keywords": ['Lines', 'Learn', 'Memorize'],
+  "keywords": ['Lines','Learn','Memorize'],
   "author": "Andrew Cope",
   "license": "ISC",
   "bugs": {
