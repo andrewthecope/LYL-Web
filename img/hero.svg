@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="192px" viewBox="0 0 401 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.8%" y="-2.9%" width="107.6%" height="108.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet" transform="translate(-117.000000, -163.000000)">
+            <g id="Group-2" transform="translate(117.000000, 142.000000)">
+                <text id="Learn" font-family="Avenir-Black, Avenir" font-size="72" font-weight="700" fill="#252525">
+                    <tspan x="214.208" y="72">Learn </tspan>
+                </text>
+                <text id="Your" font-family="Avenir-Black, Avenir" font-size="72" font-weight="700" fill="#161616">
+                    <tspan x="218.708" y="141">Your </tspan>
+                </text>
+                <text id="Lines" font-family="Avenir-Black, Avenir" font-size="72" font-weight="700" fill="#2A2A2A">
+                    <tspan x="216.312" y="212">Lines </tspan>
+                </text>
+                <g id="Group" filter="url(#filter-1)" transform="translate(0.000000, 31.000000)">
+                    <rect id="Rectangle-2" fill="#FEA800" x="0" y="64" width="184" height="49" rx="24.5"></rect>
+                    <rect id="Rectangle-2" fill="#3DD336" x="0" y="125" width="184" height="49" rx="24.5"></rect>
+                    <rect id="Rectangle-2" fill="#FF0048" x="0" y="0" width="184" height="49" rx="24.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
