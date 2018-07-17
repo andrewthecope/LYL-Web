@@ -180,10 +180,10 @@ nav .appstore {
 footer {
   position:absolute;
   bottom:0;
-
   padding:0 10px;
   text-align:center;
-
+  width:100%;
+  box-sizing:border-box;
 }
 
 .legalese {
@@ -238,5 +238,23 @@ footer a:hover {
   .leftstuff {
     /*move this to vertical media query*/
       transform: translateY(85%) translateX(-50%);
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  .heroimage {
+    max-width:200px;
+  }
+  
+  .leftstuff {
+    font-size:1.4em;
+  }
+  
+  .appstore {
+    margin-top:10px;
+  }
+  
+  footer {
+    font-size:0.7em;
   }
 }
