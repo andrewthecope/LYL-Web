@@ -12,8 +12,8 @@
     "url": "git+https://github.com/andrewthecope/LYL-Web.git"
   },
   "dependencies": {
-    "express": "^4.12.4",
-  },  
+    "express": "^4.12.4"
+  },
   "keywords": ['Learn Your Lines', 'Lines', 'Learn', 'Memorize'],
   "author": "Andrew Cope",
   "license": "ISC",
