@@ -5,7 +5,6 @@ $(document).ready(function(){
   
   function event() {
     cur_item = (cur_item + 1) % memorizeitems.length;
-    console.log(memorizeitems[cur_item]);
     $('#memorize-items').html(memorizeitems[cur_item]);
   }
   

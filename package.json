@@ -1,0 +1,23 @@
+{
+  "name": "LYL-Web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewthecope/LYL-Web.git"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+  },  
+"keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewthecope/LYL-Web/issues"
+  },
+  "homepage": "https://github.com/andrewthecope/LYL-Web#readme"
+}
