@@ -11,7 +11,7 @@ app.get('/', function(req, res) {
 });
 
 app.get('/privacy', function(req, res) {
-  res.sendFile(path.join(__dirname + 'privacy.html'));
+  res.sendFile(path.join(__dirname + '/privacy.html'));
 });
 
 app.listen(port, function() {
