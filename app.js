@@ -10,7 +10,7 @@ app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/index.html'));
 });
 
-app.get('/privacy' function(req, res) {
+app.get('/privacy', function(req, res) {
   res.sendFile(path.join(__dirname + 'privacy.html'));
 });
 
